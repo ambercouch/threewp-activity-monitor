@@ -1,0 +1,27 @@
+* text=auto !eol
+/SD_Activity_Monitor_Base.php -text
+/SD_Form.php -text
+/ThreeWP_Activity_Monitor.php -text
+/ThreeWP_Activity_Monitor.pot -text
+css/ThreeWP_Activity_Monitor.css -text
+images/icons/comment_approve.png -text
+images/icons/icons.txt -text
+images/icons/login_failure.png -text
+images/icons/login_success.png -text
+images/icons/password_reset.png -text
+images/icons/post_publish.png -text
+images/icons/trash.png -text
+js/admin.js -text
+lang/ThreeWP_Activity_Monitor-fr_FR.mo -text
+lang/ThreeWP_Activity_Monitor-fr_FR.po -text
+lang/ThreeWP_Activity_Monitor-sl_SI.mo -text
+lang/ThreeWP_Activity_Monitor-sl_SI.po -text
+lang/ThreeWP_Activity_Monitor-sv_SE.mo -text
+lang/ThreeWP_Activity_Monitor-sv_SE.po -text
+lang/ThreeWP_Activity_Monitor.pot -text
+/pot.sh -text
+/readme.txt -text
+/screenshot-1.png -text
+/screenshot-2.png -text
+/screenshot-3.png -text
+/screenshot-4.png -text
